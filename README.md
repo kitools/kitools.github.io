@@ -1,5 +1,4 @@
-# kitools.github.io
 
-Cover site of KiTools project
+# kitools
 
 [https://github.com/kitools](https://github.com/kitools)
